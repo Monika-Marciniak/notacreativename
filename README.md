@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @notacreativename
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Monika_M
+- 👀 I love to play good boardgame.  
 - 🌱 I’m currently learning HTML, CSS, JavaScript with HackYourFuture
 - 📫 How to reach me on my email m.marciniak89@gmail.com
 - https://www.freecodecamp.org/MonikaMarciniak 
